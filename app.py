@@ -25,7 +25,7 @@ data = load_data()
 data = transform_data(data)
 
 # Title of the application
-st.title("Enhanced Wine Quality Analysis")
+st.title("Wine Quality Analysis")
 
 # Display the dataset
 st.write("## Raw Data")
